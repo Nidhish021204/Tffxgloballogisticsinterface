@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { Linkedin, Phone, Mail } from "lucide-react";
-import logo from "figma:asset/3d253c2b7d805edfe3a8ae890e94ef4b96f1597d.png";
+import logo from "../../assets/3d253c2b7d805edfe3a8ae890e94ef4b96f1597d.png";
 
 export function Footer() {
   return (
