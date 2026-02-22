@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router";
 import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
-import logo from "src/assets/ChatGPT Image Jan 31, 2026, 01_57_52 AM.png";
+import logo from "../../assests/img.png";
 
 const navLinks = [
   { label: "Home", path: "/" },
