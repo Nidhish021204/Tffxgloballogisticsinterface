@@ -1,7 +1,7 @@
 
-  # TFFx Global Logistics Interface
+  # TFFxSite
 
-  This is a code bundle for TFFx Global Logistics Interface. The original project is available at https://www.figma.com/design/QCW2MJVBKhkRIQ3uagbIaE/TFFx-Global-Logistics-Interface.
+  This is a code bundle for TFFxSite. The original project is available at https://www.figma.com/design/QCW2MJVBKhkRIQ3uagbIaE/TFFxSite.
 
   ## Running the code
 
