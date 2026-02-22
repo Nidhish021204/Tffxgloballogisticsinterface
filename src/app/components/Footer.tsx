@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { Linkedin, Phone, Mail } from "lucide-react";
-import logo from "assets/3d253c2b7d805edfe3a8ae890e94ef4b96f1597d.png";
+import logo from "src/assets/ChatGPT Image Jan 31, 2026, 01_57_52 AM.png";
 
 export function Footer() {
   return (
