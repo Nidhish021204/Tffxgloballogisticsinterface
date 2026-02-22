@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router";
 import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
-import logo from "../../assets/3d253c2b7d805edfe3a8ae890e94ef4b96f1597d.png";
+import logo from "assets/3d253c2b7d805edfe3a8ae890e94ef4b96f1597d.png";
 
 const navLinks = [
   { label: "Home", path: "/" },
